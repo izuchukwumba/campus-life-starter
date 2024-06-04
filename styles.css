@@ -1,0 +1,51 @@
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    margin-bottom:50px
+}
+
+h1{
+    margin-bottom:-5px
+}
+
+#navigation{
+    border: 3px solid grey;
+    display:flex;
+    justify-content: space-around;
+    padding:15px
+}
+
+#student-orgs, #events, #news{
+    margin-bottom: 50px;
+    /* display:flex;
+    flex-direction: column; */
+}
+#student-orgs h2, #events h2, #news h2{
+    margin-bottom:-5px;
+    /* display: flex;
+    justify-content: center; */
+}
+.section-p{
+    /* display:flex;
+    justify-content: center; */
+}
+
+#orgs-container{
+    display: flex;
+    justify-content: space-around;
+
+}
+.org{
+    padding-right:30px
+}
+.org-img{
+width:100%
+}
+.org-name{
+
+}
+.org-details{
+
+}
