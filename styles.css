@@ -32,6 +32,9 @@ h1{
     justify-content: center; */
 }
 
+#student-orgs{
+    padding:50px 20px
+}
 #orgs-container{
     display: flex;
     justify-content: space-around;
@@ -44,7 +47,9 @@ h1{
 width:100%
 }
 .org-name{
-
+font-weight: 700;
+font-size: 20px;
+padding-top:10px
 }
 .org-details{
 
